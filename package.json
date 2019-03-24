@@ -1,0 +1,13 @@
+{
+  "name": "@stomprocket/blastoff-preact",
+  "version": "0.1.0",
+  "description": "Preact Components for BlastOff",
+  "main": "index.js",
+  "repository": "github.com/stomprocket/blastoff-preact",
+  "author": "swissChili",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "preact": "^8.4.2"
+  }
+}
